@@ -7,14 +7,23 @@ The goal of this project is to transform raw mission data into a clear, engaging
 This Power BI report analyzes 4,600+ global space missions and provides insights into:
 
 •	The evolution of launch activity across decades
+
 •	Success vs. failure trends over time
+
 •	Rocket rankings based on a custom Rocket Power Score
+
 •	Company performance (RVSN USSR, Arianespace, CASC, SpaceX, etc.)
+
 •	Success efficiency normalized by billions of dollars spent
+
 •	How spaceflight progressed through the Space Age eras
+
 •	Top-performing rockets and organizations
+
 •	Historical cost trends and mission reliability
+
 The dashboard includes two main pages:
+
 1.	Maven Return to Space Challenge – primary KPIs, rocket rankings, and decade analysis
 2.	Additional Insights – time-series performance, eras, and company breakdown
 
@@ -25,21 +34,36 @@ Rocket Power Score (custom metric)
 A composite ranking based on:
 
 •	40% launch volume
+
 •	40% success rate
+
 •	20% cost efficiency
 
+
 This helps identify rockets with the strongest all-around performance.
+
 Successes per Billion Dollars
+
 Measures efficiency:
+
 Successful launches per USD $1B spent.
+
 Running Total Launches
+
 A cumulative time-series showing long-term mission growth.
+
 Space Age Era Analysis
+
 Breakdown of launches across:
+
 •	Early Space Race
+
 •	Post-Apollo Transition
+
 •	Shuttle Era
+
 •	New Space Era
+
 
 📁 Repository Contents
 
